@@ -1,0 +1,3 @@
+interface:
+  display_name: "闲鱼营销文案重构"
+  short_description: "提取商品与服务信息，结合本店经营规则，重写有吸引力且说明完整的闲鱼文案"
